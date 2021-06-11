@@ -1,0 +1,7 @@
+C:\Users\unite\source\repos\Chapter7_3\Chapter7_3\bin\Debug\Chapter7_3.exe.config
+C:\Users\unite\source\repos\Chapter7_3\Chapter7_3\bin\Debug\Chapter7_3.exe
+C:\Users\unite\source\repos\Chapter7_3\Chapter7_3\bin\Debug\Chapter7_3.pdb
+C:\Users\unite\source\repos\Chapter7_3\Chapter7_3\obj\Debug\Chapter7_3.csprojAssemblyReference.cache
+C:\Users\unite\source\repos\Chapter7_3\Chapter7_3\obj\Debug\Chapter7_3.csproj.CoreCompileInputs.cache
+C:\Users\unite\source\repos\Chapter7_3\Chapter7_3\obj\Debug\Chapter7_3.exe
+C:\Users\unite\source\repos\Chapter7_3\Chapter7_3\obj\Debug\Chapter7_3.pdb
